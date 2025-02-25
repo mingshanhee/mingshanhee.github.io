@@ -102,6 +102,8 @@ social:
 highlight_name: true
 ---
 
-I’m currently a fourth-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg/), under the research guidance of [Prof. Roy Ka-Wei Lee](https://info.roylee.sg/).  I am honoured to receive several prestigious scholarships/awards, including Presidential Doctoral Fellowship Scholarship and the Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2024, that support my PhD studies.
+I’m currently a fifth-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg/), under the research guidance of [Prof. Roy Ka-Wei Lee](https://info.roylee.sg/).  I am honoured to receive several prestigious scholarships/awards, including Presidential Doctoral Fellowship Scholarship and the Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2024, that support and finances my PhD studies. 
 
-My research focus on Computational Social Science with Explainable AI, particularly focusing on explainable approaches for hateful content moderation.
+My PhD thesis focuses on developing explainable and trustworthy approaches for hateful content moderation, particularly in multimodal settings. Using leveraging large multimodal models (LMMs) and post-hoc explanation techniques such as Local Interpretable Model-Agnostic Explanations (LIME), my research aims to improve both detection accuracy and interpretability while mitigating biases in model predictions. Overall, my research contributes to online trust and safety by improving the explainability of AI-driven moderation systems, ensuring fairer and more accountable decision-making. The findings have broad implications for machine learning, particularly in content moderation, where balancing performance, fairness, and explainability is crucial for real-world deployment.
+
+Last Updated: 25th February 2025
