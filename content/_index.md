@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: cta-card
     id: news
     content:
       title: '📚 Exciting News!'
@@ -53,8 +53,10 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
-      css_style: 'max-width: 75ch'
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
   # - block: collection
   #   id: papers
   #   content:
