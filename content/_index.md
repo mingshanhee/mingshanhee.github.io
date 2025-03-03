@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: hugo-markdown-wide
     id: news
     content:
       title: '📚 Exciting News!'
