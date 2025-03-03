@@ -36,20 +36,20 @@ sections:
       title: '📚 Exciting News!'
       subtitle: ''
       text: |-
-        **01/2025** - **[Paper Acceptance]** One paper accepted at [ICLR'25](https://iclr.cc/)<br/>
-        **11/2024** - **[Experience]** Visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Preslav Nakov, Professor and Department Chair of Natural Language Processing. Excited to work and collaborate with brilliant minds in MBZUAI.<br/>
-        **10/2024** - **[Paper Acceptance]** One first-author paper accepted at [ICWSM'25](https://www.icwsm.org/2025/index.html)<br/>
-        **09/2024** - **[Paper Acceptance]** One first-author main and one first-author findings paper accepted at [EMNLP'24](https://aclanthology.org/events/emnlp-2024/)<br/>
-        **04/2024** - **[Paper Acceptance]** One workshop paper accepted at [WOAH'24](https://aclanthology.org/volumes/2024.woah-1/)<br/>
-        **03/2024** - **[Paper Acceptance]** One workshop paper accepted at [SocialNLP'24](https://sites.google.com/view/socialnlp2024/)<br/> 
-        **03/2024** - **[Paper Acceptance]** One demo paper accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/> 
-        **12/2023** - **[Paper Acceptance]** One tutorial accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/>
-        **12/2023** - **[Award]** Awarded the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2023](https://sdsc.sg/fellowship/) <br/>
-        **11/2023** - **[Paper Acceptance]** One research paper accepted at [ACM BigData'23](https://bigdataieee.org/BigData2023/) <br/>
-        **07/2023** - **[Paper Acceptance]** Three research papers accepted at [ACM MM'23](https://www.acmmm2023.org/) <br/>
-        **04/2023** - **[Paper Acceptance]** Two research papers accepted at [IJCAI'23](https://ijcai-23.org/) <br/>
-        **03/2023** - **[Paper Acceptance]** One research paper accepted at [ACM MMSys'23](https://2023.acmmmsys.org/) <br/>
-        **01/2022** - **[Paper Acceptance]** One research paper accepted at [TheWebConf'22](https://www2022.thewebconf.org)
+        **Jan 2025** - **[Paper Acceptance]** One paper accepted at [ICLR'25](https://iclr.cc/)<br/>
+        **Nov 2024** - **[Experience]** Visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Preslav Nakov, Professor and Department Chair of Natural Language Processing. Excited to work and collaborate with brilliant minds in MBZUAI.<br/>
+        **Oct 2024** - **[Paper Acceptance]** One first-author paper accepted at [ICWSM'25](https://www.icwsm.org/2025/index.html)<br/>
+        **Sep 2024** - **[Paper Acceptance]** One first-author main and one first-author findings paper accepted at [EMNLP'24](https://aclanthology.org/events/emnlp-2024/)<br/>
+        **Apr 2024** - **[Paper Acceptance]** One workshop paper accepted at [WOAH'24](https://aclanthology.org/volumes/2024.woah-1/)<br/>
+        **Mar 2024** - **[Paper Acceptance]** One workshop paper accepted at [SocialNLP'24](https://sites.google.com/view/socialnlp2024/)<br/> 
+        **Mar 2024** - **[Paper Acceptance]** One demo paper accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/> 
+        **Dec 2023** - **[Paper Acceptance]** One tutorial accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/>
+        **Dec 2023** - **[Award]** Awarded the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2023](https://sdsc.sg/fellowship/) <br/>
+        **Nov 2023** - **[Paper Acceptance]** One research paper accepted at [ACM BigData'23](https://bigdataieee.org/BigData2023/) <br/>
+        **Jul 2023** - **[Paper Acceptance]** Three research papers accepted at [ACM MM'23](https://www.acmmm2023.org/) <br/>
+        **Apr 2023** - **[Paper Acceptance]** Two research papers accepted at [IJCAI'23](https://ijcai-23.org/) <br/>
+        **Mar 2023** - **[Paper Acceptance]** One research paper accepted at [ACM MMSys'23](https://2023.acmmmsys.org/) <br/>
+        **Jan 2022** - **[Paper Acceptance]** One research paper accepted at [TheWebConf'22](https://www2022.thewebconf.org)
         
         Please reach out to collaborate 😃
     design:
