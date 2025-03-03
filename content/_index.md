@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: news
     content:
       title: '📚 Exciting News!'
       subtitle: ''
@@ -39,7 +40,7 @@ sections:
         **11/2024** - **[Experience]** Visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Preslav Nakov, Professor and Department Chair of Natural Language Processing. Excited to work and collaborate with brilliant minds in MBZUAI.<br/>
         **10/2024** - **[Paper Acceptance]** One first-author paper accepted at [ICWSM'25](https://www.icwsm.org/2025/index.html)<br/>
         **09/2024** - **[Paper Acceptance]** One first-author main and one first-author findings paper accepted at [EMNLP'24](https://aclanthology.org/events/emnlp-2024/)<br/>
-        **04/2024** - **[Paper Acceptance]** One workshop paper accepted at [WOAH'24](https://aclanthology.org/volumes/2024.woah-1/)<br/>   
+        **04/2024** - **[Paper Acceptance]** One workshop paper accepted at [WOAH'24](https://aclanthology.org/volumes/2024.woah-1/)<br/>
         **03/2024** - **[Paper Acceptance]** One workshop paper accepted at [SocialNLP'24](https://sites.google.com/view/socialnlp2024/)<br/> 
         **03/2024** - **[Paper Acceptance]** One demo paper accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/> 
         **12/2023** - **[Paper Acceptance]** One tutorial accepted at [TheWebConf'24](https://www2024.thewebconf.org/)<br/>
@@ -53,6 +54,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      css_style: 'max-width: 75ch'
   # - block: collection
   #   id: papers
   #   content:
@@ -65,6 +67,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
