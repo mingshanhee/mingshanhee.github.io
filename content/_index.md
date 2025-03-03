@@ -53,7 +53,7 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+        css_class: "w-80"
   # - block: collection
   #   id: papers
   #   content:
@@ -133,6 +133,6 @@ sections:
   #   design:
   #     card:
   #       # Card background color (CSS class)
-  #       css_class: "bg-primary-700"
+  #       css_class: "bg-primary-700"w-80
   #       css_style: ""
 ---
