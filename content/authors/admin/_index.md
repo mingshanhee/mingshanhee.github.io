@@ -147,7 +147,6 @@ languages:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
 ## About Me
 
 Ming Shan is a fifth-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg/), under the research supervision of Prof. [Roy Ka-Wei Lee](https://info.roylee.sg/). Ming Shan received several prestigious scholarships and awards, including the [SUTD President's Graduate Fellowship](https://www.sutd.edu.sg/admissions/graduate/scholarship/sutd-graduate-fellowships-scholarships/) and the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2024](https://sdsc.sg/fellowship/), which support and fund his Ph.D. studies. Additionally, Ming Shan serves as reviewer for several top-tier conferences and co-organizes SSNLP 2024 and 2025.
