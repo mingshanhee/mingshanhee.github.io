@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
         **Jan 2025** - **[Paper Acceptance]** One paper accepted at [ICLR'25](https://iclr.cc/)<br/>
-        **Nov 2024** - **[Experience]** Visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Preslav Nakov, Professor and Department Chair of Natural Language Processing. Excited to work and collaborate with brilliant minds in MBZUAI.<br/>
+        **Nov 2024** - **[Experience]** Visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/)<br/>
         **Oct 2024** - **[Paper Acceptance]** One first-author paper accepted at [ICWSM'25](https://www.icwsm.org/2025/index.html)<br/>
         **Sep 2024** - **[Paper Acceptance]** One first-author main and one first-author findings paper accepted at [EMNLP'24](https://aclanthology.org/events/emnlp-2024/)<br/>
         **Apr 2024** - **[Paper Acceptance]** One workshop paper accepted at [WOAH'24](https://aclanthology.org/volumes/2024.woah-1/)<br/>
