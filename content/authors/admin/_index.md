@@ -46,7 +46,7 @@ interests:
   - Computational Social Science
 
 education:
-  - area: PhD Information System Technology and Design
+  - area: "[PhD] Information System Technology and Design"
     institution: Singapore University of Technology and Design
     date_start: 2021-01-15
     date_end: 2025-08-15
@@ -56,7 +56,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: BSc Information Systems
+  - area: "[BSc] Information Systems"
     institution: Singapore Management University
     date_start: 2017-08-15
     date_end: 2020-12-15
