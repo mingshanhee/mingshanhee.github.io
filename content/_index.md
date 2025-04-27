@@ -50,8 +50,6 @@ sections:
         **Apr 2023** - **[Paper Acceptance]** Two research papers accepted at [IJCAI'23](https://ijcai-23.org/) <br/>
         **Mar 2023** - **[Paper Acceptance]** One research paper accepted at [ACM MMSys'23](https://2023.acmmmsys.org/) <br/>
         **Jan 2022** - **[Paper Acceptance]** One research paper accepted at [TheWebConf'22](https://www2022.thewebconf.org)
-        
-        Please reach out to collaborate 😃
     design:
         css_class: "w-80"
   # - block: collection
