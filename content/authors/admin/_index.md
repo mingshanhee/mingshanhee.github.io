@@ -49,7 +49,7 @@ education:
   - area: "[PhD] Information System Technology and Design"
     institution: Singapore University of Technology and Design
     date_start: 2021-01-15
-    date_end: 2025-09-31
+    date_end: 2025-09-30
     summary: |
       - Awarded Singapore Data Science Consortium Dissertation Research Fellowship
       - Awarded SUTD President’s Graduate Fellowship
