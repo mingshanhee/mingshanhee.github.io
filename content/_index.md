@@ -36,6 +36,11 @@ sections:
       title: '📚 Exciting News!'
       subtitle: ''
       text: |-
+        **Oct 2025** - **[Announcement]** Starting a new job position, Research Scientist at Institute of Foundation Models!<br/>
+        **Sep 2025** - **[Announcement]** Successfully defended my Ph.D thesis! Excited to start my next job!<br/>
+        **Aug 2025** - **[Paper Acceptance]** One paper accepted at EMNLP'25](https://2025.emnlp.org)<br/>
+        **Aug 2025** - **[Paper Acceptance]** One paper accepted at CIKM'25](https://cikm2025.org/)<br/>
+        **Apr 2025** - **[Paper Acceptance]** Another first-author paper accepted at ICWSM'25](https://www.icwsm.org/2025/index.html)<br/>
         **Jan 2025** - **[Paper Acceptance]** One paper accepted at [ICLR'25](https://iclr.cc/)<br/>
         **Nov 2024** - **[Experience]** Visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/)<br/>
         **Oct 2024** - **[Paper Acceptance]** One first-author paper accepted at [ICWSM'25](https://www.icwsm.org/2025/index.html)<br/>
@@ -49,9 +54,9 @@ sections:
         **Jul 2023** - **[Paper Acceptance]** Three research papers accepted at [ACM MM'23](https://www.acmmm2023.org/) <br/>
         **Apr 2023** - **[Paper Acceptance]** Two research papers accepted at [IJCAI'23](https://ijcai-23.org/) <br/>
         **Mar 2023** - **[Paper Acceptance]** One research paper accepted at [ACM MMSys'23](https://2023.acmmmsys.org/) <br/>
-        **Jan 2022** - **[Paper Acceptance]** One research paper accepted at [TheWebConf'22](https://www2022.thewebconf.org)
     design:
         css_class: "w-80"
+        # **Jan 2022** - **[Paper Acceptance]** One research paper accepted at [TheWebConf'22](https://www2022.thewebconf.org)
   # - block: collection
   #   id: papers
   #   content:

@@ -14,18 +14,18 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Singapore University of Tech. and Design
-    url: https://istd.sutd.edu.sg/
+  - name: Institute of Foundation Models
+    url: https://ifm.mbzuai.ac.ae/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mingshan_hee@mymail.sutd.edu.sg'
+    url: 'mailto:mingshan.hee@mbzuai.ac.ae'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/mingshanhee
@@ -49,7 +49,7 @@ education:
   - area: "[PhD] Information System Technology and Design"
     institution: Singapore University of Technology and Design
     date_start: 2021-01-15
-    date_end: 2025-08-15
+    date_end: 2025-09-31
     summary: |
       - Awarded Singapore Data Science Consortium Dissertation Research Fellowship
       - Awarded SUTD President’s Graduate Fellowship
@@ -114,7 +114,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 98
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -149,8 +149,8 @@ languages:
 ---
 ## About Me
 
-Ming Shan is a fifth-year Ph.D. candidate at the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg/), supervised by Prof. [Roy Ka-Wei Lee](https://info.roylee.sg/). He is a recipient of the [SUTD President's Graduate Fellowship](https://www.sutd.edu.sg/admissions/graduate/scholarship/sutd-graduate-fellowships-scholarships/) and the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2024](https://sdsc.sg/fellowship/). His research has been published in top conferences such as WWW, ACM Multimedia, EMNLP, and ICLR. Ming Shan also serves as a reviewer for top-tier conferences and co-organizes SSNLP 2024 and 2025.
+Ming Shan Hee is a Research Scientist at the Institute of Foundation Models, Mohammed bin Zayed University of Artificial Intelligence (MBZUAI). He received his Ph.D. from the [Singapore University of Technology and Design (SUTD)](https://istd.sutd.edu.sg/), supervised by Prof. [Roy Ka-Wei Lee](https://info.roylee.sg/). He is a recipient of the [SUTD President's Graduate Fellowship](https://www.sutd.edu.sg/admissions/graduate/scholarship/sutd-graduate-fellowships-scholarships/) and the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship 2024](https://sdsc.sg/fellowship/). His research has been published in top conferences such as WWW, ACM Multimedia, EMNLP, and ICLR. Ming Shan also serves as a reviewer for top-tier conferences and co-organizes SSNLP 2024 and 2025.
 
-His Ph.D. research focuses on developing trustworthy and explainable approaches for hateful content moderation, particularly in multimodal settings. By leveraging large multimodal models and post-hoc explanation techniques, his work improves both detection accuracy and interpretability while mitigating biases in model predictions. Ultimately, his research contributes to online trust and safety by improving the explainability of AI-driven moderation systems, ensuring fairer and more accountable decision-making. The findings have significant implications, particularly in content moderation, where balancing performance, fairness, and explainability is essential for real-world deployment.
+His Ph.D research focused on developing trustworthy and explainable models for hate content moderation, particularly in multimodal settings. By leveraging large multimodal models and post-hoc explanation techniques, his work improves both detection accuracy and interpretability while mitigating biases in model predictions. Ultimately, his research contributes to online trust and safety by improving the explainability of AI-driven moderation systems, ensuring fairer and more accountable decision-making. The findings have significant implications, particularly in content moderation, where balancing performance, fairness, and explainability is essential for real-world deployment.
 
-Last Updated: 25th February 2025
+Last Updated: 31th October 2025
